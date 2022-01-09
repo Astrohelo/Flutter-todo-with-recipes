@@ -1,0 +1,13 @@
+{
+  "homeTitle": "Todo with taste",
+  "recipePageTitle": "Find a recipe for today!",
+  "formTitle":"What are we cooking today?",
+  "formRecipes": "Recipes",
+  "formReset": "Reset",
+
+  "todoTime": "min",
+  "ingredients":"Ingredients",
+  "ok":"OK",
+  "addRecipe":"Add to list of todos",
+  "backButton":"Back"
+}

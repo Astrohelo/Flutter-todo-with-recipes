@@ -1,0 +1,13 @@
+{
+  "homeTitle": "Napi evendők",
+  "recipePageTitle": "Találd meg a ma receptjét!",
+  "formTitle": "Mit sütünk ma?",
+  "formRecipes": "Receptek",
+  "formReset": "Újrakezdés",
+
+  "todoTime": "perc",
+  "ingredients":"Hozzávalók",
+  "ok":"OK",
+  "addRecipe":"Add hozzá a napi evendőkhöz",
+  "backButton":"Vissza"
+}
